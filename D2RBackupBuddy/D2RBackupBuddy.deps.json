@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "D2RBackupBuddy/1.0.0": {
+        "runtime": {
+          "D2RBackupBuddy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D2RBackupBuddy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

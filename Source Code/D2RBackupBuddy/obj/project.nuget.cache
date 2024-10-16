@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j21zFAJ0EVRGCMZzz12jIeepCs6nID0NuHlCQ+P90o+lWtGtbWlh9TYDPbBTPMBv5U7H86ANiDG3mq9wq/b9Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\djsch\\D2R Files\\D2RBackupBuddy\\D2RBackupBuddy\\D2RBackupBuddy\\D2RBackupBuddy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djsch\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\djsch\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\djsch\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\djsch\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
